@@ -1,0 +1,6 @@
+# Hide virtual environment directory
+myenv/
+
+# Ignore Python bytecode and cache files
+scripts/__pycache__/
+*.py[cod]
